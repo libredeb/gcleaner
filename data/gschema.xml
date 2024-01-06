@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/com/github/libredeb/gcleaner/" id="com.github.libredeb.gcleaner">
+    <!-- Main Window Settings -->
+    <key name="window-width" type="i">
+      <default>800</default>
+      <summary>Main window width</summary>
+      <description>Main window width measured in pixels</description>
+    </key>
+    <key name="window-height" type="i">
+      <default>600</default>
+      <summary>Main window height</summary>
+      <description>Main window height measured in pixel</description>
+    </key>
+    <!-- Plugins Settings -->
+    <key name="analyze-WHATEVER" type="b">
+      <default>true</default>
+      <summary>Analyze WHATEVER</summary>
+      <description>Enable or disable whether GCleaner will analyze WHATEVER or not</description>
+    </key>
+  </schema>
+</schemalist>

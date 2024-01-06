@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=GCleaner
+GenericName=System Cleaner
+Comment=A System Cleaner for the GNU/Linux Operating System
+Categories=GTK;System;Utility;
+
+Icon=com.github.libredeb.gcleaner
+Exec=com.github.libredeb.gcleaner
+Terminal=false
+
+X-GNOME-UsesNotifications=true
