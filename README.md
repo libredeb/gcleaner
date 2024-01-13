@@ -21,7 +21,7 @@ To be able to build this app, you need follow this steps:
 
 1. Install dependencies:
 ```bash
-sudo apt install <dependencies>
+sudo apt install build-essential desktop-file-utils gettext gobject-introspection libgala-dev libgee-0.8-dev libgirepository1.0-dev libglib2.0-dev libgranite-dev libgtk-3-dev libplank-dev libswitchboard-2.0-dev libunity-dev libwingpanel-2.0-dev libxml2-dev libxml2-utils meson valac valadoc
 ```
 
 2. Configure build directory:
